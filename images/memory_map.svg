@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="155mm"
+   viewBox="0 0 110 155"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="memory_map.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="4"
+     inkscape:cx="274.875"
+     inkscape:cy="330.125"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect5"
+       width="20"
+       height="15"
+       x="19.999643"
+       y="5" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect18"
+       width="20"
+       height="5"
+       x="19.999643"
+       y="70" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect21"
+       width="20"
+       height="5"
+       x="19.999643"
+       y="80" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect27"
+       width="20"
+       height="5"
+       x="19.999643"
+       y="90" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect29"
+       width="20"
+       height="5"
+       x="19.999643"
+       y="100" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect33"
+       width="20"
+       height="5"
+       x="19.999643"
+       y="110" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect37"
+       width="20"
+       height="5"
+       x="19.999643"
+       y="120" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect41"
+       width="20"
+       height="5"
+       x="19.999643"
+       y="140.0002" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="13.239973"
+       id="text5-0"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan5-9"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="13.239973">Reserved</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.9px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#000000;stroke:none;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       x="5.9996409"
+       y="190"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#000000;stroke:none;stroke-width:0.15875"
+         x="5.9996409"
+         y="190" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="5.7108417"
+       id="text4-7"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan4-8"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="5.7108417">0xFFFF FFFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="20.71101"
+       id="text5"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="20.71101">0x0E01 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="30.023743"
+       y="23.23955"
+       id="text6"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="30.023743"
+         y="23.23955"
+         id="tspan7">Game Pak SRAM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="25.710899"
+       id="text8"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="25.710899">0x0E00 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="40.710567"
+       id="text9"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="40.710567">0x0C00 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="55.710236"
+       id="text10"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="55.710236">0x0A00 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="70.709908"
+       id="text11"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="70.709908">0x0800 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="30.023743"
+       y="32.239349"
+       id="text12"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         style="font-size:2.00004px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="30.023743"
+         y="32.239349"
+         id="tspan12">Game Pak ROM</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.00004px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="30.023743"
+         y="34.239388"
+         id="tspan13">Wait State 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="30.023743"
+       y="47.239021"
+       id="text15"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         style="font-size:2.00004px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="30.023743"
+         y="47.239021"
+         id="tspan14">Game Pak ROM</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.00004px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="30.023743"
+         y="49.239059"
+         id="tspan15">Wait State 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="30.023743"
+       y="62.238689"
+       id="text17"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         style="font-size:2.00004px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="30.023743"
+         y="62.238689"
+         id="tspan16">Game Pak ROM</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.00004px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="30.023743"
+         y="64.238731"
+         id="tspan17">Wait State 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="75.709793"
+       id="text18"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="75.709793">0x0700 0400</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="73.238647"
+       id="text19"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="73.238647">Reserved</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="80.70948"
+       id="text20"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="80.70948">0x0700 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="78.238335"
+       id="text21"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="78.238335">Object Attributes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="85.709572"
+       id="text22"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="85.709572">0x0601 8000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="83.238426"
+       id="text23"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="83.238426">Reserved</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,40 h 20"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,20 h 20"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,25.000001 h 20"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,55 h 20"
+       id="path9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,74.999997 h 20"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,70 h 20"
+       id="path10" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect48"
+       width="20"
+       height="5"
+       x="80"
+       y="140.0002" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,79.999794 h 20"
+       id="path20" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,84.999997 h 20"
+       id="path21" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="90.709259"
+       id="text24"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="90.709259">0x0600 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="88.238113"
+       id="text25"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="88.238113">Video RAM</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,89.999793 h 20"
+       id="path25" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="95.709152"
+       id="text26"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="95.709152">0x0500 0400</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="93.238007"
+       id="text27"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="93.238007">Reserved</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,94.999794 h 20"
+       id="path27" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1"
+       width="19.999998"
+       height="145"
+       x="19.999643"
+       y="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="100.70904"
+       id="text28"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="100.70904">0x0500 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="98.237892"
+       id="text29"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="98.237892">Palette RAM</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,99.999793 h 20"
+       id="path29" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="105.70893"
+       id="text30"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="105.70893">0x0400 0400</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="103.23779"
+       id="text31"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="103.23779">Reserved</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,104.99979 h 20"
+       id="path31" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="110.70881"
+       id="text32"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="110.70881">0x0400 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="108.23767"
+       id="text33"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="108.23767">Peripherals</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,109.99978 h 20"
+       id="path33" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="115.70871"
+       id="text34"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="115.70871">0x0300 8000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="113.23757"
+       id="text35"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="113.23757">Reserved</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,114.99979 h 20"
+       id="path35" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="120.70859"
+       id="text36"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="120.70859">0x0300 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="118.23745"
+       id="text37"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="118.23745">Internal WRAM</tspan></text>
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect66"
+       width="20"
+       height="5"
+       x="80"
+       y="130" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,119.99978 h 20"
+       id="path37" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="125.70849"
+       id="text38"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan38"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="125.70849">0x0204 0000</tspan></text>
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect69"
+       width="20"
+       height="5"
+       x="80"
+       y="100" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect83"
+       width="20"
+       height="14.999999"
+       x="80"
+       y="65" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect67"
+       width="20"
+       height="5"
+       x="80"
+       y="120" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="123.23735"
+       id="text39"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="123.23735">Reserved</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,124.99979 h 20"
+       id="path39" />
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect76"
+       width="20"
+       height="5"
+       x="80"
+       y="85" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="140.70836"
+       id="text40"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="140.70836">0x0200 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="133.23712"
+       id="text41"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan41"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="133.23712">External WRAM</tspan></text>
+    <rect
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.0916544;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect68"
+       width="20"
+       height="5"
+       x="80"
+       y="110" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,139.99998 h 20"
+       id="path41" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="145.70825"
+       id="text42"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan42"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="145.70825">0x0000 4000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="143.23712"
+       id="text43"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan43"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="143.23712">Reserved</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.999641,144.99999 h 20"
+       id="path43" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="18.033461"
+       y="150.70813"
+       id="text44"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="18.033461"
+         y="150.70813">0x0000 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="29.990051"
+       y="148.237"
+       id="text45"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="29.990051"
+         y="148.237">BIOS ROM</tspan></text>
+    <path
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 69.999641,150 -30,-40"
+       id="path45" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.999641,110 25,40"
+       id="path46" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 39.999642,105 64.999643,65.000001"
+       id="path47"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect47"
+       width="20.000359"
+       height="85"
+       x="79.999641"
+       y="65" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="150.70813"
+       id="text47"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan47"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="150.70813">0x0400 0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="65.710014"
+       id="text48"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan48"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="65.710014">0x0500 0000</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,139.99998 h 20"
+       id="path48" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="143.23712"
+       id="text49"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan49"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="143.23712">Reserved</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,144.99999 h 20"
+       id="path49" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="148.237"
+       id="text50"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan50"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="148.237">Display</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="145.70825"
+       id="text51"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="145.70825">0x0400 0056</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="140.70836"
+       id="text52"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan52"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="140.70836">0x0400 0060</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="135.70847"
+       id="text53"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="135.70847">0x0400 00A8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="130.70857"
+       id="text54"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="130.70857">0x0400 00B0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="125.70869"
+       id="text55"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan55"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="125.70869">0x0400 00E0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="120.7088"
+       id="text56"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="120.7088">0x0400 0100</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,135.00037 h 20"
+       id="path56" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,130.00037 h 20"
+       id="path57" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,125.00037 h 20"
+       id="path58" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,120.00037 h 20"
+       id="path59" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="138.23701"
+       id="text59"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan59"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="138.23701">Sound</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="133.23712"
+       id="text60"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="133.23712">Reserved</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="128.23723"
+       id="text61"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="128.23723">DMA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="118.23745"
+       id="text63"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan63"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="118.23745">Timers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="115.70891"
+       id="text65"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan65"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="115.70891">0x0400 0110</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,115.00037 h 20"
+       id="path65" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="110.70902"
+       id="text66"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan66"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="110.70902">0x0400 0120</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,110.00037 h 20"
+       id="path66" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="123.23734"
+       id="text67"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan67"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="123.23734">Reserved</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="113.23756"
+       id="text68"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan68"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="113.23756">Reserved</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="108.23767"
+       id="text69"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan69"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="108.23767">Serial (1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="105.70913"
+       id="text70"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan70"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="105.70913">0x0400 012C</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,105.00037 h 20"
+       id="path70" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="100.70924"
+       id="text71"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan71"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="100.70924">0x0400 0130</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,100.00037 h 20"
+       id="path71" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="103.23778"
+       id="text72"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan72"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="103.23778">Reserved</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="98.237892"
+       id="text73"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan73"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="98.237892">Input</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,95.000368 h 20"
+       id="path74" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="90.709465"
+       id="text75"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan75"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="90.709465">0x0400 015A</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,90.000368 h 20"
+       id="path75" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="93.237999"
+       id="text76"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan76"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="93.237999">Serial (2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="85.709572"
+       id="text78"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan78"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="85.709572">0x0400 0200</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,85.000365 h 20"
+       id="path78" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="80.709686"
+       id="text79"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan79"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.529915"
+         y="80.709686">0x0400 0804 </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.15875;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 80,80.000365 h 20"
+       id="path79" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="88.238113"
+       id="text80"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan80"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="88.238113">Reserved</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="78.03479"
+       y="95.709351"
+       id="text82"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan82"
+         style="font-size:2.00004px;text-align:end;text-anchor:end;stroke-width:0.158753"
+         x="78.03479"
+         y="95.709351">0x0400 0134</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="83.23822"
+       id="text83"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan83"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="83.23822">System</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.00004px;line-height:0.8;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.158753;stroke-linejoin:round;stroke-dasharray:none"
+       x="89.991737"
+       y="73.238441"
+       id="text84"
+       transform="scale(0.99997791,1.0000221)"><tspan
+         sodipodi:role="line"
+         id="tspan84"
+         style="font-size:2.00004px;text-align:center;text-anchor:middle;stroke-width:0.158753"
+         x="89.991737"
+         y="73.238441">Reserved</tspan></text>
+  </g>
+</svg>
